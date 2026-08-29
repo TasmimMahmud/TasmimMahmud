@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tasmim+Mahmud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=8000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tasmim+Mahmud" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2ECC71&center=true&vCenter=true&width=600&lines=CSE+Student;Web+Developer;Building+Modern+%26+User-Friendly+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=CSE+Student;Web+Developer;Building+Modern+%26+User-Friendly+Web+Experiences" alt="Typing SVG" />
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmimmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="TasmimMahmud" /> </p>
